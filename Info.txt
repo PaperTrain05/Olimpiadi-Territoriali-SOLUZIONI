@@ -1,0 +1,14 @@
+Giorno1Esercizio1 -> Spiegazione della classe vector, librerie, funzione sort (Struct, mappe e vettori, queue, stack, set) -> (POI algoritmica)
+
+2 Giorno
+Giorno2Esercizio2 -> Utilizzo strutture, vettore e spiega come risolvere questo (https://training.olinfo.it/#/task/grandprix/statement)
+Giorno2Esercizio2_3 -> Utilizzo delle MAPPE e soluzione SEMPLIFICATA (https://training.olinfo.it/#/task/grandprix/statement)
+
+3 Giorno
+Giorno3EsercirtazioneMappe -> Esercitazione delle mappe per il capo cannoniere
+Giorno3EsercirtazioneMappe2 -> Esercitazione delle mappe per manga e spiegazione
+
+4 Giorno (chiamato nei progetti 3)
+Giorno3SpiegazioneSet -> speigazione set
+Giorno3EsericizioSet -> eseritazione SET (Second dose olimpiadi esercitazione)
+Giorno3EsericizioSet1 -> eseritazione SET (Antivirus territoriali)
