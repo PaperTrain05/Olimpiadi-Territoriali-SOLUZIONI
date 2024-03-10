@@ -1,0 +1,3 @@
+C:/Users/mamel_9hzovtn/Documents/CORSOINFORMATICAAVANZATO/GiornoUnoEsercizioUno/cmake-build-debug/CMakeFiles/GiornoUnoEsercizioUno.dir
+C:/Users/mamel_9hzovtn/Documents/CORSOINFORMATICAAVANZATO/GiornoUnoEsercizioUno/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mamel_9hzovtn/Documents/CORSOINFORMATICAAVANZATO/GiornoUnoEsercizioUno/cmake-build-debug/CMakeFiles/rebuild_cache.dir
